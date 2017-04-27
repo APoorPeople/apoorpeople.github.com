@@ -14,7 +14,7 @@
  - 黄骁斌/男/1996 
  - 本科/吉林师范大学计算机学院信息管理与信息系统专业
  - 爱好:看书、穷游、弹吉他、拍照
- - github：```[github.com/bestxiaobin](github.com/bestxiaobin)```
+ - github：[github.com/bestxiaobin](github.com/bestxiaobin)
  - 期望职位：Java开发工程师
  - 期望城市：杭州
 
